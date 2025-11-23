@@ -26,8 +26,8 @@ To write a Python program to take the radius from the user and find the area of 
 ---
 
 ### PROGRAM
-REG No: 212222220032
-NAME : Rahul B
+REG No: 212222220025
+NAME : Mohamed Munthasir Y
 
 ```
 class umbrella:
